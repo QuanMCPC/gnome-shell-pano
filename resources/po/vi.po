@@ -33,7 +33,7 @@ msgstr "Cài Đặt"
 
 #: src/components/linkPanoItem.ts:46
 msgid "No Description"
-msgstr ""
+msgstr "Không mô tả"
 
 #: src/components/searchBox.ts:61
 msgid "Type to search, Tab to cycle"
@@ -275,7 +275,7 @@ msgstr ""
 
 #: src/prefs/customization/itemStyleGroup.ts:16
 msgid "Item Style"
-msgstr ""
+msgstr "Kiểu Các Mục"
 
 #: src/prefs/customization/linkItemStyle.ts:13
 msgid "Change the style of the link item"
@@ -421,27 +421,27 @@ msgstr "Chung"
 
 #: src/prefs/general/keepSearchEntryOnHide.ts:13
 msgid "Keep Search Entry"
-msgstr ""
+msgstr "Giữ nội dung hộp tìm kiếm"
 
 #: src/prefs/general/keepSearchEntryOnHide.ts:14
 msgid "Keep search entry when Pano hides"
-msgstr ""
+msgstr "Giữ nội dung hộp tìm kiếm khi Pano ẩn đi"
 
 #: src/prefs/general/linkPreviews.ts:13
 msgid "Link Previews"
-msgstr ""
+msgstr "Xem Trước Liên Kết"
 
 #: src/prefs/general/linkPreviews.ts:14
 msgid "Allow Pano to visit links on your clipboard to generate link previews"
-msgstr ""
+msgstr "Cho phép Pano xem đường dẫn trong khay nhớ tạm để tạo những xem trước cho liên kết"
 
 #: src/prefs/general/openLinksInBrowser.ts:13
 msgid "Open Links in Browser"
-msgstr ""
+msgstr "Mở Đường Dẫn Vào Trong Trình Duyệt"
 
 #: src/prefs/general/openLinksInBrowser.ts:14
 msgid "Allow Pano to open links on your default browser"
-msgstr ""
+msgstr "Cho phép Pano mở đường dẫn vào trong trình duyệt mặc định"
 
 #: src/prefs/general/pasteOnSelect.ts:13
 msgid "Paste on Select"
@@ -461,11 +461,11 @@ msgstr "Cho phép Pano chơi âm thanh báo khi chép dữ liệu mới"
 
 #: src/prefs/general/sendNotificationOnCopy.ts:13
 msgid "Send Notification on Copy"
-msgstr ""
+msgstr "Gửi Thông Báo Khi Sao Chép"
 
 #: src/prefs/general/sendNotificationOnCopy.ts:14
 msgid "Allow Pano to send notification when copying new content"
-msgstr ""
+msgstr "Cho phép Pano gửi thông báo khi chép nội dung mới"
 
 #: src/prefs/general/shortcutRow.ts:57
 msgid "Global Shortcut"
@@ -473,7 +473,7 @@ msgstr "Phím Tắt Toàn Cầu"
 
 #: src/prefs/general/shortcutRow.ts:58
 msgid "Allows you to toggle visibility of the clipboard manager"
-msgstr "Cho phép bạn hiển thị/ẩn trình quản lý khay nhớ tạm"
+msgstr "Cho phép bạn hiển thị/ẩn trình quản lý bảng tạm"
 
 #: src/prefs/general/showIndicator.ts:13
 msgid "Show Indicator"
@@ -485,11 +485,11 @@ msgstr "Hiển Thị Chỉ Báo ở panel trên"
 
 #: src/prefs/general/syncPrimary.ts:13
 msgid "Sync Primary"
-msgstr ""
+msgstr "Đồng Bộ Lụa Chọn Chính"
 
 #: src/prefs/general/syncPrimary.ts:14
 msgid "Sync primary selection with clipboard selection"
-msgstr ""
+msgstr "Đồng bộ hóa lựa chọn chính với lụa chọn của khay nhớ tạm"
 
 #: src/prefs/general/watchExclusions.ts:13
 msgid "Watch Exclusions"
@@ -497,72 +497,72 @@ msgstr "Theo Dõi Ứng Dụng Ngoại Lệ"
 
 #: src/prefs/general/watchExclusions.ts:14
 msgid "When enabled, Pano will not track clipboard from excluded apps"
-msgstr "Khi đuợc bât, Pano sẽ không lưu dữ liệu đuợc sao chép vào bộ nhớ tạm trong những ứng dụng ngoại lệ"
+msgstr "Khi đuợc bât, Pano sẽ không lưu dữ liệu đuợc sao chép vào khay nhớ tạm trong những ứng dụng ngoại lệ"
 
 #: src/utils/panoItemFactory.ts:366
 msgid "Image Copied"
-msgstr ""
+msgstr "Hình ảnh đã đuợc sao chép"
 
 #: src/utils/panoItemFactory.ts:367
 msgid "Width: %spx, Height: %spx, Size: %s"
-msgstr ""
+msgstr "Chiều dài: %spx, Chiều rông: %spx, Kích thước: %s"
 
 #: src/utils/panoItemFactory.ts:371
 msgid "Text Copied"
-msgstr ""
+msgstr "Văn bản đã đuợc sao chép"
 
 #: src/utils/panoItemFactory.ts:373
 msgid "Code Copied"
-msgstr ""
+msgstr "Mã nguồn đã đuợc sao chép"
 
 #: src/utils/panoItemFactory.ts:375
 msgid "Emoji Copied"
-msgstr ""
+msgstr "Emoji đã đuợc sao chép"
 
 #: src/utils/panoItemFactory.ts:382
 msgid "Link Copied"
-msgstr ""
+msgstr "Đường dẫn đã đuợc sao chép"
 
 #: src/utils/panoItemFactory.ts:402
 msgid "Color Copied"
-msgstr ""
+msgstr "Màu đã đuợc sao chép"
 
 #: src/utils/panoItemFactory.ts:408
 msgid "File %s"
-msgstr ""
+msgstr "Tệp tin %s"
 
 #: src/utils/panoItemFactory.ts:409
 msgid "There are %s file(s)"
-msgstr ""
+msgstr "Có %s tệp tin"
 
 #: src/utils/panoItemType.ts:4
 msgid "Link"
-msgstr ""
+msgstr "Đường Dẫn"
 
 #: src/utils/panoItemType.ts:5
 msgid "Text"
-msgstr ""
+msgstr "Văn Bản"
 
 #: src/utils/panoItemType.ts:6
 msgid "Emoji"
-msgstr ""
+msgstr "Emoji"
 
 #: src/utils/panoItemType.ts:7
 msgid "File"
-msgstr ""
+msgstr "Tệp Tin"
 
 #: src/utils/panoItemType.ts:8
 msgid "Image"
-msgstr ""
+msgstr "Hình Ảnh"
 
 #: src/utils/panoItemType.ts:9
 msgid "Code"
-msgstr ""
+msgstr "Mã Nguồn"
 
 #: src/utils/panoItemType.ts:10
 msgid "Color"
-msgstr ""
+msgstr "Màu"
 
 #: src/utils/ui.ts:13
 msgid "Pano"
-msgstr ""
+msgstr "Pano"
